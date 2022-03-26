@@ -1,0 +1,13 @@
+target/
+/project/project
+/jvm/project/project
+/native/project/project
+/js/project/project
+/out
+.bloop/
+.bsp/
+.idea/
+.DS_Store
+/*.envrc
+/.metals
+/.vscode
